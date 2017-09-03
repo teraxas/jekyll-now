@@ -17,11 +17,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
+  bitbucket: teraxas
   dribbble:
   email:
   facebook: kjocevicius
   flickr:
-  github: barryclark/jekyll-now
+  github: teraxas
   instagram: teraxas
   linkedin: 
   pinterest:
